@@ -9,7 +9,10 @@
         {
             get;
         }
-
+        IRepository<Post> Posts
+        {
+            get;
+        }
 
 
     }

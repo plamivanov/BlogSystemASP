@@ -1,16 +1,33 @@
-﻿using System;
+﻿using BlogSystem.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using AutoMapper.QueryableExtensions;
+using BlogSystem.Models;
 
 namespace BlogSystem.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         public ActionResult Index()
         {
-            return View();
+            var posts = Mapper.Map<List<Post>, List<PostViewModel>>(Data.Posts.All().ToList());
+            ////var post = this.Data.Posts.All().First();
+            ////var postVM = Mapper.Map<PostViewModel>(post);
+            //var posts = this.Data.Posts.All()
+            //    //.Select(p => new PostViewModel()
+            //    //{
+            //    //    Author = p.Author.UserName,
+            //    //    Content = p.Content,
+            //    //    Title = p.Title,
+            //    //    CreatedOn = p.CreatedOn
+            //    //})
+            //.ProjectTo<PostViewModel>()
+            //.ToList();
+
+            return View(posts);
         }
 
         public ActionResult About()

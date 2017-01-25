@@ -14,3 +14,7 @@ D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity
 D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.dll
 D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.pdb
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.InitialCreate.resources
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csproj.GenerateResource.Cache
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.Added_Posts.resources
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.Changed_Post_User_Id_Type.resources

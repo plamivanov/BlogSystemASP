@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace BlogSystem.Models
 {
-    class Post
+    public class Post :BaseModel
     {
+        public string Title { get; set; }
+        public string Content { get; set; }
+
+        public virtual ApplicationUser Author { get; set; }
+        public string AuthorId { get; set; }
     }
 }

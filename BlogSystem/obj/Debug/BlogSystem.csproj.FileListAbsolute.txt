@@ -84,3 +84,7 @@ D:\BlogSystemDemo\BlogSystem\BlogSystem\bin\Microsoft.Owin.Security.Twitter.xml
 D:\BlogSystemDemo\BlogSystem\BlogSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\BlogSystemDemo\BlogSystem\BlogSystem\obj\Debug\BlogSystem.dll
 D:\BlogSystemDemo\BlogSystem\BlogSystem\obj\Debug\BlogSystem.pdb
+D:\BlogSystemDemo\BlogSystem\BlogSystem\bin\BlogSystem.Common.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem\bin\AutoMapper.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem\bin\BlogSystem.Common.pdb
+D:\BlogSystemDemo\BlogSystem\BlogSystem\bin\AutoMapper.xml

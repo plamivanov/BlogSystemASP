@@ -1,0 +1,7 @@
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\bin\Debug\BlogSystem.Common.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\bin\Debug\BlogSystem.Common.pdb
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\bin\Debug\AutoMapper.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\bin\Debug\AutoMapper.xml
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\obj\Debug\BlogSystem.Common.csprojResolveAssemblyReference.cache
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\obj\Debug\BlogSystem.Common.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Common\obj\Debug\BlogSystem.Common.pdb

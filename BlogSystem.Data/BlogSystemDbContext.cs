@@ -18,8 +18,13 @@
             get;
             set;
         }
+        IDbSet<Post> Posts
+        {
+            get;
+            set;
+        }
 
-   
+
 
         public static BlogSystemDbContext Create()
         {
