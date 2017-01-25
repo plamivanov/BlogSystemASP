@@ -1,0 +1,16 @@
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csprojResolveAssemblyReference.cache
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.dll.config
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.pdb
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Models.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Models.pdb
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.xml
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.dll
+D:\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.pdb
